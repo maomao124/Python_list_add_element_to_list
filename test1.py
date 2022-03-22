@@ -60,3 +60,5 @@ if __name__ == '__main__':
     # 插入字符串，整个字符串被当成一个元素
     l.insert(0, "hello")
     print(l)
+
+    input()
